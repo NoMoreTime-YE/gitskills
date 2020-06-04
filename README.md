@@ -6,4 +6,4 @@ modify in master
 
 master
 feature1
-dev1
+dev2
